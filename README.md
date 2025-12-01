@@ -11,7 +11,7 @@ It supports **two roles**:
 ##Demo
 
 ### Login Screen
-![Login Screen](assets/login.png)
+![Login Screen](./login-2members.gif)
 
 ---
 
